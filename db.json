@@ -1,0 +1,79 @@
+{
+    
+ "products":[
+    {
+        "id":"1",
+        "image": "./public/image1.png",
+        "brand":"Syltherine",
+        "name":"Stylish cafe chair",
+        "price" :"Rp 2.500.000   ",
+        "bonus":" Rp 3.500.000"
+            
+    },
+    {
+        "id":"2",
+        "image": "./public/image2.png",
+        "brand":"Leviosa",
+        "name":"Stylish cafe chair",
+        "price" :"Rp 2.500.000   ",
+        "bonus":""
+            
+    },
+    {
+        "id":"3",
+        "image": "./public/image3.png",
+        "brand":"Lolito",
+        "name":"Luxury big sofa",
+        "price" :"Rp 4.000.000",
+        "bonus":"Rp 7.000.000"
+            
+    },
+    {
+        "id":"4",
+        "image": "./public/image4.png",
+        "brand":"Respira",
+        "name":"Outdoor bar table and stool",
+        "price" :"Rp 4.000.000",
+        "bonus":""
+            
+    },
+    {
+        "id":"5",
+        "image": "./public/image5.png",
+        "brand":"Grifo",
+        "name":"Night lamp",
+        "price" :"Rp 1.500.000",
+        "bonus":""
+            
+    },
+    {
+        "id":"6",
+        "image": "./public/image6.png",
+        "brand":"Muggo",
+        "name":"Small mug",
+        "price" :"Rp 1.500.000",
+        "bonus":""
+    },
+    {
+        "id":"7",
+        "image": "./public/image7.png",
+        "brand":"Pingky",
+        "name":"Cute bed set",
+        "price" :"Rp 4.000.000",
+        "bonus":"Rp 14.000.000"
+            
+    },
+    {
+        "id":"8",
+        "image": "./public/image8.png",
+        "brand":"Potty",
+        "name":"Minimalist flower pot",
+        "price" :"Rp 4.000.000",
+        "bonus":""
+            
+    }
+            
+            
+    ]
+    
+}
